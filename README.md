@@ -1,6 +1,9 @@
 # GoLog
+
 GoLang log utils with color and time.
+
 ## Usage
+
 ```go
 package main
 
