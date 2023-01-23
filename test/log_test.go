@@ -1,7 +1,7 @@
 package test
 
 import (
-	"GoLog/log"
+	"github.com/TelephoneTan/GoLog/log"
 	"testing"
 )
 

@@ -1,4 +1,4 @@
-module GoLog
+module github.com/TelephoneTan/GoLog
 
 go 1.19
 
